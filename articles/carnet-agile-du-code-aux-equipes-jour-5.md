@@ -1,9 +1,14 @@
 ---
 title: "5# Sprint Planning : Comment éviter le syndrome de la salle qui se vide"
-date: "2025-08-10 08:30:00"
+date: "2025-08-12 08:30:00"
 series: "Carnet Agile - Du Code aux Équipes"
 author: "Bastou"
-tags: ["Sprint Planning", "Scrum", "Agile", "Facilitation", "Product Owner", "Équipe technique", "Estimation", "User Stories", "Scrum Master", "Réunions efficaces", "Gestion d'équipe", "Méthodologie Agile", "Animation d'équipe", "Productivité", "Communication"]
+tags: ["Scrum", "Sprint Planning", "Facilitation", "Product Owner"]
+image_cover: articles/images/agile-jour-5.png
+image_prompt: >
+    x
+pitch: >
+    x
 excerpt: 'Spoiler : on peut faire mieux que "ça prendra 2 semaines... ou 2 mois"'
 reading_time: 10
 featured: true

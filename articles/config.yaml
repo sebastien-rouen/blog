@@ -5,23 +5,23 @@ articles:
   - file: "carnet-agile-du-code-aux-equipes-jour-1.md"
     featured: true
     priority: 1
-  
-  - file: "carnet-agile-du-code-aux-equipes-jour-2.md" 
+
+  - file: "carnet-agile-du-code-aux-equipes-jour-2.md"
     featured: false
     priority: 2
-    
+
   - file: "carnet-agile-du-code-aux-equipes-jour-3.md"
     featured: false
-    
+
   - file: "carnet-agile-du-code-aux-equipes-jour-4.md"
     featured: false
-    
+
   - file: "carnet-agile-du-code-aux-equipes-jour-5.md"
     featured: false
-    
+
   - file: "carnet-agile-du-code-aux-equipes-jour-6.md"
     featured: false
-    
+
   - file: "carnet-agile-du-code-aux-equipes-jour-7.md"
     featured: false
 
@@ -31,8 +31,8 @@ blog:
   description: "Aventures d'une pieuvre multitâche dans l'univers du code"
   author: "Bastou"
   email: "contact@bastou.dev"
-  
-# Paramètres d'affichage  
+
+# Paramètres d'affichage
 display:
   articles_per_page: 6
   excerpt_length: 200

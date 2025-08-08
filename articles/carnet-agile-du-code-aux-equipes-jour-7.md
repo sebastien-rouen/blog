@@ -1,24 +1,14 @@
 ---
 title: "7# Ce qui manque vraiment aux équipes Agile (et mon projet secret)"
-date: "2025-08-12 08:30:00"
+date: "2025-08-14 08:30:00"
 series: "Carnet Agile - Du Code aux Équipes"
 author: "Bastou"
-tags:
-  [
-    "agile",
-    "coaching",
-    "facilitation",
-    "retrospective",
-    "outils",
-    "productivité",
-    "équipes",
-    "management",
-    "développement",
-    "innovation",
-    "simplicité",
-    "efficacité",
-    "projet-personnel",
-  ]
+tags: ["Coach Agile", "Outils", "Innovation", "Projet Personnel"]
+image_cover: articles/images/agile-jour-7.png
+image_prompt: >
+  x
+pitch: >
+  x
 excerpt: "Ce qui manque vraiment aux équipes Agile (et mon projet secret)"
 reading_time: 10
 featured: true

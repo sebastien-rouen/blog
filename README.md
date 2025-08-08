@@ -2,7 +2,7 @@
 
 Bienvenue sur mon blog professionnel ! Un espace de partage où je raconte mes retours d'expérience, mes réflexions sur l'Agilité, le développement et l'accompagnement d'équipes. Le tout dans un site simple, rapide et maintenable.
 
-> _"Propulsé par du café et du code clean"_ ☕
+> _"Propulsé par du café et du code clean hébergé en local"_ ☕
 
 ---
 
@@ -25,12 +25,30 @@ Ce blog vise à :
 - **📚 Séries d'articles** : Regroupement thématique avec navigation entre articles
 - **🖇️ URLs prartageable** : Système de routage pour partager facilement articles et séries
 - **⏰ Publication programmée** : Articles publiés automatiquement selon la date ET l'heure
-- **🚧 Mode brouillon** : Système de draft avec aperçu en mode debug
+- **🚧 Mode drafts** : Différenciation environnements prod/drafts avec badges visuels
 - **🔍 Filtres avancés** : Navigation par tags ET par séries
 - **🎨 Intégration LinkedIn** : Liens vers profil professionnel
 - **⚡ Performance** : Vanilla JS, pas de framework lourd
 - **🎨 Interface moderne** : Cards avec animations, typographie soignée
 - **👤 Section À propos** : Présentation avec stats et badges
+
+### 🚧 Nouveau : Mode Drafts
+
+Le blog dispose maintenant d'un système de différenciation entre environnements :
+
+- **Production** (`blog.bastou.dev`) : Affiche uniquement les articles publiés
+- **Drafts** (`drafts.blog.bastou.dev`) : Affiche TOUS les articles avec badges pour les brouillons
+
+**Fonctionnalités :**
+✅ Détection automatique de l'environnement  
+✅ Indicateur visuel en haut de la page  
+✅ Badges discrets sur les articles non publiés  
+✅ Compteur d'articles (publiés vs brouillons)  
+✅ Prévisualisation complète de tous les contenus  
+
+🔒 **Sécurité :** [SECURITY.md](docs/SECURITY.md)
+📙 **Guide de Tags :** [TAGS_GUIDE.md](docs/TAGS_GUIDE.md)
+💹 **Google Analytics :** [Analytics](docs/ANALYTICS.md)
 
 ---
 
@@ -411,7 +429,6 @@ git checkout -b feature/ta-branche
 - [YAML Lint](https://yamllint.com/)
 - [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-- [Configuration Google Analytics](ANALYTICS.md) - Guide complet pour les statistiques
 
 ---
 

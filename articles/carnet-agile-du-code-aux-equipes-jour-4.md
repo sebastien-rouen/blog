@@ -1,15 +1,15 @@
 ---
 title: "4# Rétrospectives : Au-delà du Mad/Sad/Glad"
-date: "2025-08-09 08:30:00"
+date: "2025-08-11 08:30:00"
 series: "Carnet Agile - Du Code aux Équipes"
 author: "Bastou"
-tags: ["DevLife", "Agile", "Scrum", "Retrospectives", "Team Management", "Facilitation", "Process Improvement", "Team Dynamics", "Scrum Master", "Sprint", "Communication", "Leadership"]
-excerpt: null
+tags: ["Scrum", "Rétrospectives", "Facilitation", "Management"]
 image_cover: articles/images/agile-jour-4.png
 image_prompt: >
     x
 pitch: >
     x
+excerpt: null
 reading_time: 10
 featured: true
 published: true

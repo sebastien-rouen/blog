@@ -3,7 +3,7 @@ title: "1# Il y a 16 ans : Quand on faisait de l'Agile... sans le savoir"
 date: "2025-08-06 08:30:00"
 series: "Carnet Agile - Du Code aux Équipes"
 author: "Bastou"
-tags: ["Agile", "DevLife", "Développement", "Nostalgie", "Transformation", "PHP", "Process", "Réactivité", "Qualité", "CI/CD", "Feedback", "Collaboration"]
+tags: ["Agile", "DevLife", "Développement", "Transformation"]
 image_cover: articles/images/agile-jour-1.png
 image_prompt: >
     Scène: Pixel art, 3 développeurs sur leur ordinateur, avec 1 fenêtre sans rideau avec vue sur Paris.
@@ -21,7 +21,12 @@ pitch: >
     L'agilité, c'est l'équilibre entre vitesse ET qualité. Pas l'un contre l'autre.
     Vous aussi, vous avez cette nostalgie du "livré dans l'heure" ?
     #Agile #RetourAuxSources #Efficacité
-excerpt: "Il y a 16 ans, on déployait en prod en 20 minutes. Aujourd'hui, il faut 2 semaines pour livrer la même chose. L'Agile nous a-t-il rendu plus lents ? Retour sur une époque où on faisait de l'Agile... sans le savoir."
+excerpt: >
+    Il y a 16 ans, une demande client était livrée en 20 minutes.
+    
+    Aujourd'hui, avec nos process Agile "parfaits", il faut 2 semaines. 
+    
+    Paradoxe ? En 2009, sans le savoir, on appliquait déjà les vrais principes de l'agilité : réactivité maximale, feedback immédiat, collaboration directe. Certes, sans la qualité d'aujourd'hui. Mais étions-nous plus "agiles" à l'époque ? Réflexion d'un développeur devenu coach sur l'équilibre entre vitesse et process.
 reading_time: 12
 featured: true
 published: true

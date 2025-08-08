@@ -3,8 +3,7 @@ title: "3# Les clients d'hier vs aujourd'hui : Même impatience, nouveaux outils
 date: "2025-08-08 08:30:00"
 series: "Carnet Agile - Du Code aux Équipes"
 author: "Bastou"
-tags: ["Agile", "Client", "Process", "Qualité", "Réactivité", "Communication", "Évolution", "DevLife", "Outils", "Scrum", "Relation Client", "Développement", "Équipe", "Management", "Feedback", "Urgence", "Flexibilité", "Tests", "CI/CD", "Jira", "Sprint", "Backlog", "Hot-fix", "Business", "PME", "Maintenance", "Documentation", "Régression", "Déploiement"]
-excerpt: null
+tags: ["Agile", "Client", "Communication", "Outils"]
 image_cover: articles/images/agile-jour-3.png
 image_prompt: >
     Scène: Pixel art, Sébastien devant un board au Daily coloré avec des post it, découvrant l'Agilité pour la première fois avec d'autres collègues qui parlent de leur tâches.
@@ -37,6 +36,9 @@ pitch: >
 
     Et vous, cette tension qualité vs réactivité, comment vous la gérez ?
     #Agile #QualiteVsReactivite #MonParcours #ClientSatisfaction #Efficacité
+excerpt: >
+    Pourquoi les clients trouvent qu'on était "plus efficaces avant" et comment réconcilier qualité technique et réactivité business.
+    Entre nostalgie du FTP et réalité des process modernes, mon retour d'expérience sur cette tension permanente.
 reading_time: 12
 featured: true
 published: true

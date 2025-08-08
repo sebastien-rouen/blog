@@ -3,8 +3,7 @@ title: "2# Comment mon monde s'est écroulé ? De Dev à Scrum Master : Mon parc
 date: "2025-08-07 08:30:00"
 series: "Carnet Agile - Du Code aux Équipes"
 author: "Bastou"
-tags: ["Scrum Master", "Transition de carrière", "Développeur", "Management d'équipe", "Agilité", "Leadership", "Évolution professionnelle", "Collaboration", "Process", "Rétrospective", "DevLife", "Parcours personnel"]
-excerpt: null
+tags: ["Scrum Master", "Carrière", "DevLife", "Leadership"]
 image_cover: articles/images/agile-jour-2.png
 image_prompt: >
     Scène: Pixel art, Sébastien devant un board au Daily coloré avec des post it, découvrant l'Agilité pour la première fois avec d'autres collègues qui parlent de leur tâches.
@@ -38,7 +37,12 @@ pitch: >
     📝 Épisode 2 de ma série : comment organiser des humains, c'est plus complexe que débugger du code →  https://blog.bastou.dev/#article/carnet-agile-du-code-aux-equipes-jour-2
     Vous avez vécu cette transition du technique vers l'humain ? Comment ça s'est passé ?
     #AgileTransformation #ScrumMaster #MonParcours #DevLife #TeamWork
+excerpt: >
+    Comment j'ai découvert qu'il existait une autre façon de travailler qu'en solo ?
 
+    Mon parcours de développeur solitaire vers Scrum Master, entre choc culturel et révélations sur l'efficacité collective.
+    
+    De mon bureau dans un coin avec 5 projets simultanés à la facilitation d'équipes : 8 ans d'apprentissage pour comprendre que débugger des humains, c'est plus complexe que débugger du code  ! C'est comme débugger... mais avec des "bugs" qui ont des émotions ! 😊
 reading_time: 15
 featured: true
 published: true

@@ -1,9 +1,14 @@
 ---
 title: "6# L'outil qui va révolutionner votre quotidien de Coach Agile"
-date: "2025-08-11 08:30:00"
+date: "2025-08-13 08:30:00"
 series: "Carnet Agile - Du Code aux Équipes"
 author: "Bastou"
-tags: ["Agile Coach", "Open Source", "Retrospectives", "Facilitation", "Community", "RGPD", "Sprint Planning", "Team Building", "Transformation Agile", "Outils Gratuits", "Coaching", "Scrum Master", "Innovation Collaborative", "Communautaire", "Beta Test"]
+tags: ["Coach Agile", "Outils", "Open Source", "Communauté"]
+image_cover: articles/images/agile-jour-6.png
+image_prompt: >
+    x
+pitch: >
+    x
 excerpt: "Quand tu réalises que parler aux humains, c'est plus dur que debugger"
 reading_time: 10
 featured: true
