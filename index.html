@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog de Bastou - Les aventures d'un coach Agile</title>
+    <link rel="icon" type="image/png" href="assets/images/logo.png">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CG8PVE02BX"></script>
+    <script>window.dataLayer = window.dataLayer || [];function gtag() { dataLayer.push(arguments); }gtag('js', new Date());gtag('config', 'G-CG8PVE02BX');</script>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <img src="assets/images/logo.png" alt="Bastou Logo" class="logo-img">
+                    <h1 class="logo-text">Coach Agile & Facilitateur</h1>
+                </div>
+                <p class="tagline">Les aventures d'un coach Agile</p>
+            </div>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="nav">
+            <ul class="nav-list">
+                <li><a href="#" class="nav-link active" data-section="home">Accueil</a></li>
+                <li><a href="#" class="nav-link" data-section="articles">Articles</a></li>
+                <li><a href="#" class="nav-link" data-section="about">À propos</a></li>
+            </ul>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main">
+            <!-- Home Section -->
+            <section id="home" class="section active">
+                <div class="hero">
+                    <div class="hero-particles">
+                        <div class="hero-particle" style="top: 20%; left: 10%;"></div>
+                        <div class="hero-particle" style="top: 60%; left: 80%;"></div>
+                        <div class="hero-particle" style="top: 30%; left: 70%;"></div>
+                        <div class="hero-particle" style="top: 80%; left: 20%;"></div>
+                        <div class="hero-particle" style="top: 40%; left: 90%;"></div>
+                        <div class="hero-particle" style="top: 70%; left: 5%;"></div>
+                    </div>
+                    <div class="hero-content">
+                        <h2 class="hero-title">Au service des équipes et du produit</h2>
+                        <p class="hero-description">
+                            J'explore l'Agilité, le code, les outils simples et les pratiques qui font la différence.
+                        </p>
+                        
+                        <div class="hero-cta">
+                            <a href="#articles" class="hero-btn hero-btn-primary" data-section="articles">
+                                Découvrir mes articles
+                            </a>
+                            <a href="#about" class="hero-btn hero-btn-secondary" data-section="about">
+                                En savoir plus
+                            </a>
+                        </div>
+
+
+                    </div>
+                </div>
+
+                <div class="recent-articles">
+                    <h3 class="section-title">Articles récents</h3>
+                    <div id="recent-articles-container" class="articles-grid">
+                        <!-- Articles récents injectés ici -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Articles Section -->
+            <section id="articles" class="section">
+                <h2 class="section-title">Tous les articles</h2>
+                <div class="articles-layout">
+                    <div class="articles-main">
+                        <div id="articles-container" class="articles-grid">
+                            <!-- Articles injectés ici -->
+                        </div>
+                    </div>
+                    
+                    <div class="articles-sidebar">
+                        <div class="filters-container">
+                            <div class="filter-block filter-block-series">
+                                <div class="filter-block-header">
+                                    <div class="filter-block-icon">📚</div>
+                                    <h3 class="filter-block-title">Séries</h3>
+                                </div>
+                                <div class="filter-block-content">
+                                    <div id="series-filters">
+                                        <!-- Filtres par séries injectés ici -->
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="filter-block filter-block-tags">
+                                <div class="filter-block-header">
+                                    <div class="filter-block-icon">🏷️</div>
+                                    <h3 class="filter-block-title">Tags</h3>
+                                </div>
+                                <div class="filter-block-content">
+                                    <div id="tag-filters">
+                                        <!-- Filtres par tags injectés ici -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- About Section -->
+            <section id="about" class="section">
+                <h2 class="section-title">À propos</h2>
+                <div class="about-content">
+                    <div class="about-card">
+                        <div class="about-avatar">
+                            <div class="avatar-placeholder">🐙</div>
+                        </div>
+                        <div class="about-info">
+                            <h3 class="about-name">Sébastien "Bastou" ROUEN</h3>
+                            <p class="about-role">Coach Agile & Facilitateur</p>
+                            <div class="about-badges">
+                                <span class="badge">Ex-Dev PHP</span>
+                                <span class="badge">Scrum Master</span>
+                                <span class="badge">Coach Agile</span>
+                                <span class="badge">Pieuvre Tech</span>
+                            </div>
+                            <div class="about-social">
+                                <a href="https://www.linkedin.com/in/sebastien-rouen/" target="_blank"
+                                    rel="noopener noreferrer" class="social-link">
+                                    <span class="linkedin-icon">💼</span> Me suivre sur LinkedIn
+                                </a>
+                                <a href="https://buymeacoffee.com/sebastien.rouen" target="_blank"
+                                    rel="noopener noreferrer" class="social-link">
+                                    <span class="coffee-icon">☕</span> M'offrir un café
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="about-description">
+                        <div class="about-text">
+                            <p>
+                                <strong>Ancien développeur depuis + de 10 ans</strong>, je suis aujourd'hui
+                                <strong>Coach Agile</strong> depuis plus de 8 ans, passionné par l'intelligence
+                                collective, la simplicité et le sens. J'accompagne les équipes et les organisations dans
+                                leur transformation, en cultivant l'autonomie, la transparence et l'amélioration
+                                continue.
+                            </p>
+                            <p>
+                                Ce site est mon espace de partage : retours d'expérience, outils pratiques, inspirations
+                                tech et réflexions autour du produit, du métier et de l'humain.
+                                <em>Ici, pas de blabla corporate — juste du concret, du vécu, et un peu de pixels.</em>
+                            </p>
+                        </div>
+
+                        <div class="about-stats">
+                            <div class="stat-item">
+                                <div class="stat-number">10+</div>
+                                <div class="stat-label">Années de dev</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-number">8+</div>
+                                <div class="stat-label">Années de coaching</div>
+                            </div>
+                            <div class="stat-item">
+                                <div class="stat-number">∞</div>
+                                <div class="stat-label">Cafés bus</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Article Detail -->
+            <section id="article-detail" class="section">
+                <button id="back-btn" class="back-btn">← Retour aux articles</button>
+                <article id="article-content" class="article-detail">
+                    <!-- Contenu de l'article injecté ici -->
+                </article>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2025 Sébastien ROUEN - Propulsé par du café, du code clean 🐙 et hébergé en local</p>
+                <div class="footer-links">
+                    <a href="https://www.linkedin.com/in/sebastien-rouen/" target="_blank" rel="noopener noreferrer"
+                        class="footer-link">
+                        <span class="linkedin-icon">💼</span> LinkedIn
+                    </a>
+                    <a href="https://buymeacoffee.com/sebastien.rouen" target="_blank" rel="noopener noreferrer"
+                        class="footer-link">
+                        <span class="coffee-icon">☕</span> Buy me a coffee
+                    </a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.2/marked.min.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/analytics.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

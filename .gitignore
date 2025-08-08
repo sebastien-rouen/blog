@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# ENV
+.env
+
+# IDE
+.vscode/
+.kiro/
+.idea/
+
+# Fichiers temporaires
+tmp/
+temp/
+*.tmp
+
+# Sauvegardes d'éditeurs
+*~
+*.swp
+*.swo
+*.bak
+
+# Fichiers de configuration personnels
+*.sublime-workspace
+*.sublime-project
+
+# Exportations ou données générées
+export/
+output/
+out/
+
+# Fichiers de test
+coverage/
+*.cover
+*.lcov
